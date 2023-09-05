@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>This line is added by Manjunadh using github</h1>
       <h1>This line is added by Bhavani viyyapu using github</h1>
+      <h1>This line is added by Mehataj Shaik using github</h1>
     </div>
   );
 }
