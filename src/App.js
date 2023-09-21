@@ -9,6 +9,7 @@ function App() {
       <h1>This line is added by Mehataj Shaik using github</h1>
       <h1>This line is added by Ameen Shaik using github</h1>
       <h1>This line is added by Bhuvana Chinni using github</h1>
+      <h1>This line is added by Santosh Rajaput using github</h1>
     <h1>here i am creating a project</h1>
     </div>
   );
